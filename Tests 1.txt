@@ -1,0 +1,20 @@
+5
+Hors 1110110
+WildRockets 1011101
+Wolta 1111111
+Arcada 0011111
+Go 1101111
+
+6
+Calibr 1111111
+VooDoo 1011101
+Rockets 0111011
+Rosteh 0011011
+Potapovo 1111111
+Tehnodinamika 1101111
+
+4
+Novator 1111100
+Socar 1111100
+Luchnik 1111100
+Elliron 0000011
